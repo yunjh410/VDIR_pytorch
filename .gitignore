@@ -1,0 +1,8 @@
+*.pyc
+*/__pycache__/*
+.idea/
+.code/
+data/
+saved_models/
+.vscode/
+DIV2K/
